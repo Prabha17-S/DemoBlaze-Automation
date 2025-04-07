@@ -1,0 +1,70 @@
+[
+  {
+    "username": "john_doe",
+    "password": "Password123!"
+  },
+  {
+    "username": "alice123",
+    "password": "SecurePass!2025"
+  },
+  {
+    "username": "user_1",
+    "password": "TestUser!99"
+  },
+  {
+    "username": "jd",
+    "password": "12345"
+  },
+  {
+    "username": "averylongusername1234567890",
+    "password": "weakpass"
+  },
+  {
+    "username": "john doe!",
+    "password": "abcdef"
+  },
+  {
+    "username": "",
+    "password": ""
+  },
+  {
+    "username": "",
+    "password": "123@pwd"
+  },
+  {
+    "username": "$89nfc",
+    "password": ""
+  },
+  {
+    "username": "12345",
+    "password": "abcdef"
+  },
+  {
+    "username": "987654",
+    "password": "12345678"
+  },
+  {
+    "username": "用户123",
+    "password": "パスワード123!"
+  },
+  {
+    "username": "алексей",
+    "password": "Schløsser!2"
+  },
+  {
+    "username": "José",
+    "password": "Secure@Pass1"
+  },
+  {
+    "username": "' OR 1=1 --",
+    "password": "HackAttempt123"
+  },
+  {
+    "username": "<script>alert('test')</script>",
+    "password": "TestPass123"
+  },
+  {
+    "username": "seletest169",
+    "password": "seletest169"
+  }
+]

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+
+    <test name="Demoblaze Test" verbose="2" preserve-order="true">
+        <classes>
+            <class name="Test.DemoblazeTest">
+                <methods>
+                    <include name="userAuthentication"/>
+                    <include name="validateHomeScreen"/>
+                    <include name="productDetailsValidation"/>
+                    <include name="shoppingCartValidation"/>
+                    <include name="checkoutProcessValidation"/>
+                    <include name="userLogoutValidation"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+
+</suite>
